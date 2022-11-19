@@ -17,7 +17,7 @@
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=ozcanisik)](#) 
 
-![Ozcan's Github Stats](https://github-readme-stats.vercel.app/api?username=ozcanisik&show_icons=true&theme=radical)
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=ozcanisik&theme=blue-green">
   
 
 
