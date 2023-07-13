@@ -10,7 +10,7 @@
 <td><a href="https://www.linkedin.com/in/ozcanisik">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 
-<td><a href="mailto:ozcan59isik@gmail.com">
+<td><a href="mailto:contact@ozcanisik.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   
 ---
