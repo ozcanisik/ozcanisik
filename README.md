@@ -12,6 +12,8 @@
 
 <td><a href="mailto:contact@ozcanisik.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+
+<a href='https://ozcanisik.com/' target="_blank"><img alt='ozcanisik.com' src='https://img.shields.io/badge/ozcanisik.com-100000?style=for-the-badge&logo=ozcanisik.com&logoColor=eeeee4&labelColor=eeeee4&color=eeeee4'/></a>
   
 ---
 
