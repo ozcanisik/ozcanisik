@@ -1,4 +1,6 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Hack&pause=1000&color=2DF700&background=00000F00&vCenter=true&width=500&lines=Hi+there%2C+Welcome+to+my+Github+Profile!+%F0%9F%91%8B;I'm+%C3%96zcan+I%C5%9F%C4%B1k" alt="Typing SVG" /></a>
+<h1 align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?     font=Hack&pause=1000&color=2DF700&background=00000F00&vCenter=true&width=500&lines=Hi+there%2C+Welcome+to+my+Github+Profile!+%F0%9F%91%8B;I'm+%C3%96zcan+I%C5%9F%C4%B1k" alt="Typing SVG" /></a>
+</h1>
 
 #### I'm studying Computer Engineering at Uludag University
 
